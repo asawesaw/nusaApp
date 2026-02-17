@@ -1,0 +1,8 @@
+{
+  "name": "NusaApp - Super App Indonesia",
+  "description": "Aplikasi lengkap untuk transportasi, belanja, dompet digital, dan manajemen mitra dengan pelacakan real-time.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
